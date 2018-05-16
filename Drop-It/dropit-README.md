@@ -1,0 +1,2 @@
+# Intermediate-Algorithms-FCC 
+# The drop-it algorithm allows the user to input an array and function that looks for a specific number in the array that meets the condition speicified in the function. 
