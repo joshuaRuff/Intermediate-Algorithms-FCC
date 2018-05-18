@@ -1,4 +1,3 @@
-
 function truthCheck(collection, pre) {
   //Test every element in the array with .every
   var bool = collection.every(function(x) {
